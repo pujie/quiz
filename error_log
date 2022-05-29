@@ -1,0 +1,6 @@
+[29-Dec-2021 00:46:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/julehaja/members.julehajatim.com/application/controllers/Members.php on line 48
+[29-Dec-2021 00:47:39 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/julehaja/members.julehajatim.com/application/controllers/Members.php on line 48
+[29-Dec-2021 00:47:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/julehaja/members.julehajatim.com/application/controllers/Members.php on line 48
+[29-Dec-2021 00:47:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/julehaja/members.julehajatim.com/application/controllers/Members.php on line 48
+[29-Dec-2021 00:47:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/julehaja/members.julehajatim.com/application/controllers/Members.php on line 48
+[29-Dec-2021 00:47:40 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/julehaja/members.julehajatim.com/application/controllers/Members.php on line 48
