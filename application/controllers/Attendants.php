@@ -11,6 +11,7 @@ Class Attendants extends CI_Controller{
     function handler(){
         $data['params'] = $this->input->post();
         $data['attendant_id'] = 'abc';
+        $data['title'] = 'Soal Pretest Bimtek Juleha';
         $data['questions'] = $this->crud->reads('questions',array("id","subject","qweight","answer"),array("collection_id"=>1))['res'];
         $this->load->view('attendants/exam',$data);
     }
