@@ -21,7 +21,7 @@
                with font-awesome or any other icon font library -->
 
                <li class="nav-item menu-open">
-            <a href="/members/index" class="nav-link  active">
+            <a href="#" class="nav-link  active">
               <i class="nav-icon fas fa-table"></i>
               <p>
                 Daftar Anggota
@@ -30,7 +30,7 @@
           </li>
 
           <li class="nav-item menu-open">
-            <a href="/members/profile" class="nav-link">
+            <a href="#" class="nav-link">
             <i class="nav-icon fas fa-id-card"></i> 
               <p>
                 Profil Anggota
@@ -38,7 +38,7 @@
             </a>
           </li>
           <li class="nav-item menu-open">
-            <a href="/members/login" class="nav-link">
+            <a href="#" class="nav-link">
               <i class="nav-icon fas  fa-sign-out-alt"></i> 
               <p>
                 Keluar
